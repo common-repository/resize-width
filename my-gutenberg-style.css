@@ -1,0 +1,11 @@
+@charset "utf-8";
+.block-editor-block-list__block {
+    max-width: 100%!important;
+    resize: both;
+    overflow: hidden;
+}
+
+.block-editor-block-list__block:hover {
+    border: 2px solid red;
+}
+

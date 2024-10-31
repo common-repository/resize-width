@@ -1,0 +1,39 @@
+# Translation of Plugins - Resize Width - Development Readme (trunk) in Japanese
+# This file is distributed under the same license as the Plugins - Resize Width - Development Readme (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-08-03 11:56+0900\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.4\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Resize Width - Development Readme (trunk)\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#. Found in description paragraph.
+msgid "This is the plugin easy resize block editor."
+msgstr "ブロックエディタの大きさを簡単に調整できます。"
+
+#. Plugin name.
+msgid "Resize Width"
+msgstr "Resize Width"
+
+#. Found in faq paragraph.
+msgid "No Frequently Questions yet."
+msgstr "よくある質問はありません。"
+
+#. Screenshot description.
+msgid "There is no Screenshots."
+msgstr "スクリーンショットはありません。"
+
+#. Found in installation list item.
+msgid "Activate the plugin through the 'Plugins' menu in WordPress"
+msgstr "プラグイン画面で有効化してください"
+
+#. Found in changelog paragraph.
+msgid "New release"
+msgstr "新発売"
